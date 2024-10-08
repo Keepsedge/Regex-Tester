@@ -1,0 +1,5 @@
+C:\Users\energ\Publish\RegexTester.exe
+C:\Users\energ\Publish\RegexTester.dll
+C:\Users\energ\Publish\RegexTester.deps.json
+C:\Users\energ\Publish\RegexTester.runtimeconfig.json
+C:\Users\energ\Publish\RegexTester.pdb

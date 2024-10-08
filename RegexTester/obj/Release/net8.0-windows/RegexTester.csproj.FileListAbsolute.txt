@@ -1,0 +1,16 @@
+C:\Users\energ\source\repos\RegexTester\RegexTester\bin\Release\net8.0-windows\RegexTester.exe
+C:\Users\energ\source\repos\RegexTester\RegexTester\bin\Release\net8.0-windows\RegexTester.deps.json
+C:\Users\energ\source\repos\RegexTester\RegexTester\bin\Release\net8.0-windows\RegexTester.runtimeconfig.json
+C:\Users\energ\source\repos\RegexTester\RegexTester\bin\Release\net8.0-windows\RegexTester.dll
+C:\Users\energ\source\repos\RegexTester\RegexTester\bin\Release\net8.0-windows\RegexTester.pdb
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.Form1.resources
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.csproj.GenerateResource.cache
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.AssemblyInfoInputs.cache
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.AssemblyInfo.cs
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.csproj.CoreCompileInputs.cache
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.dll
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\refint\RegexTester.dll
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.pdb
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\RegexTester.genruntimeconfig.cache
+C:\Users\energ\source\repos\RegexTester\RegexTester\obj\Release\net8.0-windows\ref\RegexTester.dll
