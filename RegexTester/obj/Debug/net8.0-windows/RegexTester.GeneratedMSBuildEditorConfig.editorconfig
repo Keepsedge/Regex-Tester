@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RegexTester
-build_property.ProjectDir = C:\Users\energ\source\repos\RegexTester\RegexTester\
+build_property.ProjectDir = C:\Rescue_git\Regex-Tester\RegexTester\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

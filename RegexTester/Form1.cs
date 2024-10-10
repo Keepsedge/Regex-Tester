@@ -31,7 +31,7 @@ namespace RegexTester {
             }
             string filteredOutput = txtInput.Text;
             RegexOptions options = (cbIgnoreCase.Checked) ? RegexOptions.IgnoreCase : RegexOptions.None;
-            TimeSpan tsRegex = new TimeSpan(0);
+            TimeSpan tsRegex = new TimeSpan(0, 0, 1);
             if (cbTimeout.Checked) {
                 if(String.IsNullOrEmpty(txtTimeout.Text)) { txtTimeout.Text = "1"; }
                 string tmpTs = txtTimeout.Text;
@@ -50,19 +50,16 @@ namespace RegexTester {
                 if (cbReplacement.Checked) {
                     filteredOutput = filteredOutput.Replace(match.Value, txtReplacement.Text);
                 } else {
+                    if (match.Value == String.Empty) { break; }
                     filteredOutput = filteredOutput.Replace(match.Value, String.Format("*{0}*", match.Value));
                 }
                 match = match.NextMatch();
             }
-            txtOutput.Text += filteredOutput + "\r\n";
+            txtOutput.AppendText(filteredOutput + "\r\n");
         }
 
         private void button2_Click (object sender, EventArgs e) {
             txtOutput.Clear();
-        }
-
-        private void cbIgnoreCase_CheckedChanged (object sender, EventArgs e) {
-
         }
 
         private void cbTimeout_CheckedChanged (object sender, EventArgs e) {
