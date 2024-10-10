@@ -1,0 +1,5 @@
+C:\Rescue_git\Regex-Tester\RegexTester\bin\Release\net8.0-windows\publish\RegexTester.exe
+C:\Rescue_git\Regex-Tester\RegexTester\bin\Release\net8.0-windows\publish\RegexTester.dll
+C:\Rescue_git\Regex-Tester\RegexTester\bin\Release\net8.0-windows\publish\RegexTester.deps.json
+C:\Rescue_git\Regex-Tester\RegexTester\bin\Release\net8.0-windows\publish\RegexTester.runtimeconfig.json
+C:\Rescue_git\Regex-Tester\RegexTester\bin\Release\net8.0-windows\publish\RegexTester.pdb

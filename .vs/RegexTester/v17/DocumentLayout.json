@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Rescue_git\\Regex-Tester\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5566402-D046-4E3E-85D8-EE122D3AEBAD}|RegexTester\\RegexTester.csproj|c:\\rescue_git\\regex-tester\\regextester\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B5566402-D046-4E3E-85D8-EE122D3AEBAD}|RegexTester\\RegexTester.csproj|solutionrelative:regextester\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5566402-D046-4E3E-85D8-EE122D3AEBAD}|RegexTester\\RegexTester.csproj|c:\\rescue_git\\regex-tester\\regextester\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5566402-D046-4E3E-85D8-EE122D3AEBAD}|RegexTester\\RegexTester.csproj|solutionrelative:regextester\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5566402-D046-4E3E-85D8-EE122D3AEBAD}|RegexTester\\RegexTester.csproj|c:\\rescue_git\\regex-tester\\regextester\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5566402-D046-4E3E-85D8-EE122D3AEBAD}|RegexTester\\RegexTester.csproj|solutionrelative:regextester\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Rescue_git\\Regex-Tester\\RegexTester\\Form1.cs",
               "RelativeDocumentMoniker": "RegexTester\\Form1.cs",
               "ToolTip": "C:\\Rescue_git\\Regex-Tester\\RegexTester\\Form1.cs",
               "RelativeToolTip": "RegexTester\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAhwDoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:51:52.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Rescue_git\\Regex-Tester\\RegexTester\\Form1.cs",
               "RelativeDocumentMoniker": "RegexTester\\Form1.cs",

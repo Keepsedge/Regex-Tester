@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegexTester")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+721375a2d90e5d9d73b79b529f4b5c91172549f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebdd11fd4f092605101c3e1e4c6a365b7d790538")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegexTester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegexTester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

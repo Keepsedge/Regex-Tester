@@ -47,10 +47,10 @@ namespace RegexTester {
             }
             Match match = Regex.Match(filteredOutput, txtRegex.Text, options, tsRegex);
             while (match.Success) {
+                if (match.Value == String.Empty) { break; }
                 if (cbReplacement.Checked) {
                     filteredOutput = filteredOutput.Replace(match.Value, txtReplacement.Text);
                 } else {
-                    if (match.Value == String.Empty) { break; }
                     filteredOutput = filteredOutput.Replace(match.Value, String.Format("*{0}*", match.Value));
                 }
                 match = match.NextMatch();
