@@ -6,6 +6,9 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <SignAssembly>True</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <AssemblyOriginatorKeyFile>C:\Rescue_git\Regex-Tester\sgKey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
 </Project>
